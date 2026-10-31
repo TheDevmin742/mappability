@@ -1,0 +1,19 @@
+# outputs
+*.bedgraph
+*.bedgraph.gz
+*.params.json
+*.log
+*.out
+*.bam
+*.bai
+*.fq
+*.fastq
+*.mmi
+*.bwt
+*.pac
+*.ann
+*.amb
+*.sa
+test/out/
+__pycache__/
+.DS_Store
