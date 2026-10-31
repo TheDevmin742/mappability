@@ -31,7 +31,7 @@ chr6 (16.79-17.22 Mb) and knob/satellite blocks on chr9 and chr7.
 Requirements: Python 3.8+ with numpy; `bwa` (short reads); `minimap2` (long reads); `samtools`
 (only for `-B`). On OSC Pitzer all four are in a conda env or module.
 
-    git clone https://github.com/<you>/mappability.git
+    git clone https://github.com/TheDevmin742/mappability.git
     cd mappability && bash test/run_toy_test.sh      # ~1 min, prints PASS
 
 ## Usage
